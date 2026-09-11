@@ -1,0 +1,48 @@
+{
+  "snapshot_utc": "2026-09-11T12:55:48.996315+00:00",
+  "epoch": {
+    "blocks_per_epoch": 144,
+    "enrolled_miners": 17,
+    "epoch": 282,
+    "epoch_pot": 1.5,
+    "slot": 40707,
+    "total_supply_rtc": 8388608
+  },
+  "public_scope": "active miners returned by /api/miners?limit=1000 plus four founder wallets named in public tokenomics docs",
+  "active_all": {
+    "wallets": 13,
+    "nonzero": 12,
+    "total_rtc": 1251.937351,
+    "gini": 0.713883253313786,
+    "median": 10.455313,
+    "top1_share": 0.42700748929089183,
+    "top5_share": 0.9667649711331282,
+    "top10_share": 0.9976437399222542
+  },
+  "active_nonfounder": {
+    "wallets": 13,
+    "nonzero": 12,
+    "total_rtc": 1251.937351,
+    "gini": 0.713883253313786,
+    "median": 10.455313,
+    "top1_share": 0.42700748929089183,
+    "top5_share": 0.9667649711331282,
+    "top10_share": 0.9976437399222542
+  },
+  "founder_wallets": {
+    "wallets": 4,
+    "nonzero": 4,
+    "total_rtc": 273715.052252,
+    "gini": 0.3054839700230223,
+    "median": 75497.47,
+    "top1_share": 0.45650050655220037,
+    "top5_share": 1.0,
+    "top10_share": 1.0
+  },
+  "api_limitations": {
+    "/api/balances": "HTTP 401 admin_required",
+    "/api/wallets": "HTTP 404",
+    "/api/holders": "HTTP 404",
+    "/wallet/rich-list": "HTTP 404"
+  }
+}

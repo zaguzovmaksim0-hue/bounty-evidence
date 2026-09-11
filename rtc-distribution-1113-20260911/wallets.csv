@@ -1,0 +1,18 @@
+wallet,balance_rtc,founder,active_miner,device_family,device_arch,antiquity_multiplier
+jar9XPS,2.943038,False,True,x86,modern,0.8
+RTC5800896ed658aa511D029361b6d7388ddb29248B,236.257074,False,True,Apple Silicon,M2,1.2
+RTC1c5093d221006a8c83132b808b86739cb26e809e,184.570268,False,True,Windows,"Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",0.8
+modern-sophiacore-3a168058,2.670063,False,True,x86_64,modern,0.8
+RTC14f06ee294f327f5685d3de5e1ed501cffab33e7,20.883299,False,True,Apple Silicon,M4,1.05
+modern-sophia-Pow-9862e3be,534.586625,False,True,x86,broadwell,1.05
+RTC74b80ab40602e5ae31819912b2fca974484e5dab,178.007861,False,True,ARM,aarch64,0.0005
+still_worthy,1.635764,False,True,x86,modern,0.8
+RTC9bfd4bdee47a17a0d0160a865ae905696f1b9920,1.314126,False,True,x86,modern,0.8
+stepehenreed,1.706571,False,True,x86,modern,0.8
+RTC1410e82d545ce0b3ffd21ca83e2465a8f2c3a64e,76.907349,False,True,Apple Silicon,M2,1.2
+cobalt-qube3-scott,10.455313,False,True,x86,retro,1.4
+probe_test_miner_1,0.0,False,True,x86,x86_64,1.0
+founder_founders,75497.47,True,False,,,
+founder_dev_fund,124951.060004,True,False,,,
+founder_team_bounty,51955.58,True,False,,,
+founder_community,21310.942248,True,False,,,
